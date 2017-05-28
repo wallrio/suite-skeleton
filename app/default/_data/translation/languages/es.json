@@ -1,0 +1,24 @@
+{
+	"header":{
+		"prefix":"es",
+		"name":"Español"		
+	},
+	
+	"reference":{		
+		"home":"comienzo",
+		"example":"ejemplo",		
+
+		"go to suite web site":"Ir al sitio web de la suite",
+		"help":"ayuda",
+		"Example topics":"Ejemplo de tema",
+		"Example Menu Dynamic":"ejemplo de menú dinamico", 
+		"Example Page Suite":"Ejemplo Página Suite",
+		"Application basic":"Aplicación básica",
+		"loaded in":"cargado en",
+		"milliseconds":"milisegundos",
+
+		"example,page,suite":"ejemplo,página,suite",
+
+		"Example page":"página ejemplo"
+	}
+}

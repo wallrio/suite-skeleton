@@ -1,0 +1,25 @@
+{
+	"header":{
+		"prefix":"pt-br",
+		"name":"Portugues - Brasil"		
+	},
+	
+	"reference":{		
+		"home":"inicio",
+		"example":"exemplo",
+		"go to suite web site":"ir pra suite web site",
+		"help":"ajuda",
+		"Example topics":"Exemplo de topicos",
+		"Example Menu Dynamic":"Exemplo de menu dinamico",
+
+		"Example Page Suite":"Página exemplo Suite",
+		"Application basic":"Aplicação básica",
+		"loaded in":"carregado em",
+		"milliseconds":"milissegundos",
+
+		"example,page,suite":"exemplo,página,suite",
+
+		"Example page":"página exemplo"
+
+	}
+}

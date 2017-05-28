@@ -1,0 +1,14 @@
+{
+	"title":"@home@",	
+	"menu":{
+		"title":"@home@",
+		"visible":true,
+		"priority":0
+	},
+	"meta": {
+        "title": "@home@",
+        "description": ",@home@",
+        "keywords": ",@home@",
+        "robots": ""        
+    }
+}

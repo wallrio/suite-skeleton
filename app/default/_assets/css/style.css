@@ -1,0 +1,36 @@
+.background{
+	background: #eee;
+}
+
+.content{
+	padding: 10px;
+	background: #fff;
+}
+
+.wrapper > header .header .content{
+	background: #ddd;
+}
+
+.wrapper > header .wrapperBradcrumb .content{
+	background: #D2D2D2;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	border-bottom: 1px solid #ccc;
+}
+
+.wrapper > footer .content{
+	background: #444;	
+	color: #ccc;
+}
+
+.wrapper > footer .content[data-rel="menu-footer"]{
+	border-bottom: 1px solid #333;
+}
+
+.wrapper > main{
+	color: #666;
+}
+
+p{
+	margin-bottom: 10px;
+}

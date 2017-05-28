@@ -1,0 +1,23 @@
+{
+	"header":{
+		"prefix":"en",
+		"name":"English"		
+	},
+	
+	"reference":{		
+		"home":"home",	
+		"example":"exemplo",
+		"go to suite web site":"go to suite web site",
+		"help":"help",
+		"Example topics":"Example topics",
+		"Example Menu Dynamic":"Example Menu Dynamic", 
+		"Example Page Suite":"Example Page Suite",	
+		"Application basic":"Application basic",
+		"loaded in":"loaded in",
+		"milliseconds":"milliseconds",
+
+		"example,page,suite":"example,page,suite",
+
+		"Example page":"Example page"		
+	}
+}

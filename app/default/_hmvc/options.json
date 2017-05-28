@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "title": "Suite",   
+        "description": "@Example Page Suite@",
+        "keywords": "@example,page,suite@",
+        "robots": "index, follow",
+        "author": "Wallace Rio"        
+    }
+    
+}

@@ -1,0 +1,12 @@
+{
+    "name": "wallrio/suite-skeleton",
+    "require": {
+        "wallrio/suite":"*"        
+    },
+    "authors": [
+        {
+            "name": "Wallace Rio",
+            "email": "wallrio@gmail.com"
+        }
+    ]
+}

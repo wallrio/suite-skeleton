@@ -1,0 +1,12 @@
+{
+	"priority":0,
+	"menu":{
+		"title":"@example@"
+	},
+	"meta": {
+		"title": "@example@",
+        "description": ",@example@  ",
+        "keywords": ",@example@",
+        "robots": ""        
+    }
+}

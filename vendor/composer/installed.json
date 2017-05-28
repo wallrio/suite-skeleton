@@ -1,0 +1,50 @@
+[
+    {
+        "name": "wallrio/suite",
+        "version": "1.2",
+        "version_normalized": "1.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wallrio/suite.git",
+            "reference": "b65b37d34afc7516d82c423909c571f474228c4f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wallrio/suite/zipball/b65b37d34afc7516d82c423909c571f474228c4f",
+            "reference": "b65b37d34afc7516d82c423909c571f474228c4f",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=4.2"
+        },
+        "time": "2017-04-16T06:22:15+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "core/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Wallace Rio",
+                "email": "wallacerio@wallrio.com",
+                "homepage": "http://wallacerio.com"
+            }
+        ],
+        "description": "framework for development web",
+        "homepage": "http://suite.wallrio.com",
+        "keywords": [
+            "components",
+            "framework",
+            "plugins",
+            "suite",
+            "wallrio",
+            "widget"
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="@html-lang@">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="initial-scale=1,minimum-scale=1, maximum-scale=1,user-scalable=no">                                
+
+       <title>[app.action:meta/title] - [app:meta/title]</title>  
+        
+        <meta name="description" content="[app:meta/description] [app.action:meta/description]">
+        <meta name="keywords" content="[app:meta/keywords] [app.action:meta/keywords]">
+        <meta name="robots" content="[app:meta/robots] [app.action:meta/robots]">
+        <meta name="author" content="[app:meta/author]">
+
+       
+       
+        
+    </head>
+    <body>  
+
+  
+
+        <div class="wrapper">
+
+            <div class="background" >
+                <div class='wrapper' rel="center">          
+                    
+                    <header>
+                        [suite:app-get:_html/header.html]
+                    </header>
+
+                    
+
+                    <main>
+                        <div class='content' >
+                                <div class="mainBar">
+                                    <div class='contentBack ' >
+                                        <div class='RowMain ' >                                                                                    
+                                            [suite:view:_CURRENT_]
+                                        </div>
+                                    </div>      
+                                </div>
+                            </div>                      
+                    </main>
+
+
+
+                    <footer>    
+                        [suite:app-get:_html/footer.html]                        
+                    </footer>
+                
+                </div>
+            </div>  
+        </div> 
+         
+        [suite:app-get:_html/analytics.html]
+        
+
+    </body>
+</html>
