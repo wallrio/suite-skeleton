@@ -8,5 +8,8 @@
             "name": "Wallace Rio",
             "email": "wallrio@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "wallrio/suite": "1.2"  
+    },
 }
